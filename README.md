@@ -1,9 +1,3 @@
-# gesture-control
-
-Controlling PowerPoint slides using hand gestures tracked via MediaPipe and classified by an LSTM neural network trained on hand keypoints over time.
-
----
-
 # Gesture-Based Control of PowerPoint Presentations
 
 This system enables contactless control of PowerPoint presentations through simple hand gestures.  

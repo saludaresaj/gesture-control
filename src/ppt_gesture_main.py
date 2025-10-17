@@ -1,5 +1,5 @@
 # Gesture Control for PowerPoint
-# Author: Adam Justine G. Saludares
+# Author: AJ Saludares
 # Description: Performs real-time gesture detection and PowerPoint slide control using a trained LSTM model.
 # Date: 15 May 2025
 
@@ -214,4 +214,5 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+
 print("Gesture control stopped.")

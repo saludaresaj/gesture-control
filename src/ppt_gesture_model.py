@@ -1,5 +1,5 @@
 # Gesture Control for PowerPoint
-# Author: A. Saludares
+# Author: AJ Saludares
 # Description: Defines, trains, and saves an LSTM model for gesture classification.
 # Date: 15 May 2025
 
@@ -113,4 +113,5 @@ model.save(MODEL_NAME)
 print(f"\nModel saved as {MODEL_NAME}")
 
 print("\nTraining complete!")
+
 print(f"To visualize training, run: tensorboard --logdir={log_dir}")

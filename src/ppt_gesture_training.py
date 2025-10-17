@@ -1,5 +1,5 @@
 # Gesture Control for PowerPoint
-# Author: A. Saludares
+# Author: AJ Saludares
 # Description: Collects gesture data using MediaPipe for LSTM model training.
 # Date: 15 May 2025
 
@@ -142,4 +142,5 @@ while action_idx < len(actions):
 
 print("Data collection finished.")
 cap.release()
+
 cv2.destroyAllWindows()
